@@ -4,7 +4,7 @@
 This means a single chatGPT session with all of its content AND metadata is represented as a persistent entity (in this case, a yaml file in GitHub).
 
 ## Format
-See [format.yml](format.yml) for the latest information. The fundamental elements are:
+See [format.yml](/format.yml) for the latest information. The fundamental elements are:
 
 ```yaml
 memory:
@@ -29,4 +29,4 @@ memory:
 
 - `meta`: *Data and metadata taken directly from the internally stored values of the chatGPT session*
 
-  **Example:** `meta: {tokens_used: 36, some_variable: "some value", some_list: ['steve', 'brian', 'mark', dave', 'charlie']}`
+  **Example:** `meta: {tokens_used: 36, some_variable: "some value", some_list: ['steve', 'brian', 'mark']}`
