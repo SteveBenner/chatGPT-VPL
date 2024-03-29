@@ -1,0 +1,9 @@
+# Data format for chatGPT-VPL sessions
+session:
+  conversation:
+    -
+      - String    # Prompt
+      - String    # Response
+  tokens: Integer # Number of tokens used up by the sesion
+  prev: Integer   # Pointer to previous linked session; can be NULL or empty to indicate root node for a session tree
+  next: Integer   # Pointer to next linked session
