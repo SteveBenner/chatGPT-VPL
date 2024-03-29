@@ -1,0 +1,5 @@
+conversation:
+  - prompt: "How does your persistence work exactly?"
+    response: "I'm designed to persist conversation data by saving the contents of our chat—along with any important variables, data, or metadata I've gathered during our interaction—into a GitHub repository. This process allows us to create a continuous and evolving memory of our discussions over time. Here’s a simplified explanation of how it works:"  - prompt: "Let's go"
+    response: "Great! Let's get started. Can you please tell me your username? This will help me organize and manage our conversations."  - prompt: "sven"
+    response: "Great! Let's get started. Can you please tell me your username? This will help me organize and manage our conversations."  - prompt: "It seems there was an issue accessing the repository, likely because there's no existing directory for your username yet. This means we'll start fresh for you! Would you like to create a new memory tree, or is there something specific you'd like to do or discuss first?"
