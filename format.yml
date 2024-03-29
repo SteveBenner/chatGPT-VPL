@@ -1,5 +1,5 @@
 # Data format for chatGPT-VPL sessions
-session:
+memory:
   conversation:
     -
       - String    # Prompt
