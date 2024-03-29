@@ -1,0 +1,10 @@
+# Example session file for chatGPT-VPL
+memory:
+  conversation:
+    - ["This is a test prompt", "This is a response from chatGPT"]
+    - ["Another prompt, with new information.", "A response to the prompt"]
+    - ["Yet another prompt", "ChatGPT's response"]
+  tokens: 36
+  prev: 0
+  next: 2
+  meta: [some Integer, "some string", {a: "map"}]
