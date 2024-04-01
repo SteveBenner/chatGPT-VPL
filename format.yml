@@ -1,5 +1,6 @@
 # Data format for chatGPT-VPL sessions
 memory:
+  id: Integer     # Session ID
   conversation:
     -
       - String    # Prompt
