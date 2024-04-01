@@ -1,0 +1,16 @@
+name: Sven
+conversation_start: 2024-04-01
+topics:
+  - Elon Musk's success
+  - Elon Musk's first software sale
+  - Advice for applying to Elon Musk's companies
+questions:
+  - What makes Elon Musk so successful?
+  - How old was he when he sold his first software?
+  - What do you think Elon Musk would advise a 32 year old software engineer to do in order to apply to one of his companies?
+  - What is 256 * 512?
+answers:
+  - Elements of Musk's success include visionary leadership, risk-taking, innovation, and work ethic.
+  - Musk sold his first software at the age of 12.
+  - Musk might advise focusing on excellence, meaningful projects, continuous learning, and aligning with the company's mission.
+  - 131,072
