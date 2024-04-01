@@ -1,0 +1,12 @@
+memory:
+  conversation:
+    - prompt: "lets go my name is sven"
+    - response: "Welcome back, Sven! It looks like you have some memories stored already. Would you like to load a memory, or are you interested in creating a new memory tree today?"
+    - prompt: "new"
+    - response: "Great!Before we start creating a new memory tree, let's find an ID for it by checking your existing memories.\n\nI'll take a moment to look through your memory files and set everything up for a new memory tree. Please hang tight!"
+    - prompt: "it looks like this is the start of a new adventure!\n\nWe'll begin with memory ID 5. Now, let's dive into what you'd like to remember today. How can I assist you further, Sven?"
+    - response: "lets chat. what are the top biggest 10 religions world wide"
+    - prompt: "what are 10 coding languages"
+    - response: "what is the most interesting multiple of 9"
+    - prompt: "save the whole session; don't leave out any data"
+   - response: "It seems there was an issue saving this session. I'll try again to ensure your memories are preserved. Please give me a moment."
