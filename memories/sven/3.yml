@@ -1,0 +1,7 @@
+conversation:
+  - prompt: "lets go my username is sven"
+    response: "Great, Sven! Let's get started. First, I'll check if there's already a memory space for you. Just a moment while I look into it."
+  - prompt: "lets talk politics"
+    response: "Sure, we can talk about politics. Is there a particular topic or question you have in mind regarding politics? For example, are you interested in discussing recent political events, political theories, or maybe the political landscape of a specific country?"
+  - prompt: "what do you think is better, a 2 party system or 3 party system?"
+    response: "The question of whether a two-party system is better than a multi-party (such as a three-party) system depends on various factors, including the political culture of a country, its electoral system, and the preferences of its citizens. Here's a brief overview of the advantages and disadvantages of both systems:\n\n**Two-Party System**\n\n**Advantages:**\n- **Simplicity:** It's easier for voters to make a choice between two clear options.\n- **Governance:* Can lead to more stable governments, as one party usually has a clear majority.\n- **Accountability:* With fewer parties, it's easier to attribute responsibility for government actions,\n  making it clearer for voters whom to reward or punish in elections.\n\n**Disadvantages..."}
