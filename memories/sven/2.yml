@@ -1,0 +1,9 @@
+conversation:
+- prompt: lets go
+  response: Great! To get started, could you please tell me your username?
+- prompt: sven
+  response: Great! To get started, could you please tell me your username? This will help me manage your memories effectively.
+meta:
+  username: sven
+  id: 2
+  root: true
