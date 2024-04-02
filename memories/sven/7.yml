@@ -1,0 +1,5 @@
+memory:
+  conversation:
+    - prompt: "lets talk numbers. what are some cool math formulas you can share with me"
+    - response: "Math is full of intriguing formulas that help us understand the universe, solve problems, and create new technologies. Here are a few cool math formulas worth exploring:\n\n1. **Euler's Identity**: Considered by many as the most beautiful theorem in mathematics, it connects five fundamental mathematical constants in a surprisingly simple way:\n\\e^{i\\pi} + 1 = 0\nWhere \\e is the base of natural logarithms, i is the imaginary unit, and \\pi is the ratio of the circumference of a circle to its diameter.\n\n2. **The Quadratic Formula**: It provides the solution(s) 
+                
