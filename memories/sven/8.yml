@@ -1,0 +1,6 @@
+memory:
+  conversation:
+    - prompt: "lets go; my username is sven"
+    - response: "Great, let's get started, Sven! Before we proceed, would you like to load a memory or create a new memory tree?"
+    - prompt: "new memory"
+    - response: "It looks like you already have some memories saved! Since this is about creating a new memory tree, we'll add a new one to your collection. This will be your seventh memory tree.\n\nLets get started with your new memory. What would you like to discuss or note down in this memory?"
