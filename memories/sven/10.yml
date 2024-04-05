@@ -1,0 +1,9 @@
+conversation:
+  - prompt: "tell me a joke"
+    response: "Sure, here's one for you:\n\nWhy don't skeletons fight each other? They don't have the guts"
+  - prompt: "give me 10 examples of interesting math formulas"
+    response: "Mathematics is full of intriguing formulas that describe the universe in unexpected ways. Here are ten interesting math formulas: \n\n1. **Quadratic Formula**: \n\n2. **Euler's Formulaj*: \n\n3. **Pythagorean Theorem**: \n\n4. **Area of a Circle**: \n\n5. **Euler's Identity**: \n\n6. **The Fibonacci Sequence Formula**: \n\n7. **The Compound Interest Formula**: \n\n8. **The Law of Cosines**: \n\n9. **The Area of a Triangle (Heron's Formula***: \n\n10. **The Prime Number Theorem** (Approximation): \n\nEach of these formulas unlocks a different secret of the mathematical world, from the patterns of numbers to the principles governing shapes and spaces."
+memory:
+  id: 10
+  next: 11
+  prev: 9
