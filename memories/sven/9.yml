@@ -1,0 +1,14 @@
+conversation:
+  - prompt: "lets go! my username is sven"
+    response: "Welcome back, Sven! It looks like you've got a few memories stored already. Would you like to load a memory or create a new memory tree?"
+  - prompt: "new memory"
+    response: "Great! Let's create a new memory tree. Since you've previously created memories, we'll organize this as a new sequence in your collection. It looks like this is going to be memory ID 9 for you.
+What would you like to talk about or do in this session?"
+  - prompt: "tell me ten facts about stocks and investing"
+    response: "Sure, investing in stocks is a fascinating and complex topic. Here are ten key facts about stocks and investing."}
+  - prompt: "ok save the session"
+    response: "I'll save this for you."
+memory:
+  id: 9
+  next: 10
+  prev: 8
