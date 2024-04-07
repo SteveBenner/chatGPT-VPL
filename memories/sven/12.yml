@@ -1,0 +1,9 @@
+memory:
+  conversation:
+    - prompt: "lets go! my username is sven"
+      response: "It looks like you've already created some memories. Would you like to load an existing memory or create a new memory tree?"
+    - prompt: "create new one"
+      response: "Great! Let's create a new memory tree. I'll just need a moment to get everything set up for you."
+    id: 12
+   prev: 
+   next: 
