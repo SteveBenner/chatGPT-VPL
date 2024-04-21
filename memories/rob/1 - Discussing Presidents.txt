@@ -1,0 +1,19 @@
+
+User: new memory tree
+Assistant: Great! Since there's already a memory file, the ID for your new memory tree will be set to 1. It looks like this is a new conversation tree for you!
+
+User: list 10 presidents
+Assistant: Sure, here are the names of 10 U.S. Presidents:
+1. George Washington
+2. Thomas Jefferson
+3. Abraham Lincoln
+4. Theodore Roosevelt
+5. Franklin D. Roosevelt
+6. John F. Kennedy
+7. Richard Nixon
+8. Ronald Reagan
+9. Bill Clinton
+10. Barack Obama
+
+User: save session
+Assistant: (attempt to save the session)
